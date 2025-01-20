@@ -1,0 +1,1 @@
+This file ensures that the foundational script for the course project is functional and correctly integrates user input and output. Proper documentation and file uploads help maintain project organization and traceability.
